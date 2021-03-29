@@ -18,10 +18,10 @@ client.on('ready', () => {
  
   console.log('\n\x1b[32m%s\x1b[0m', `          $[INFO]: Logged on ${client.user.tag}`);  
   console.log('\x1b[32m%s\x1b[0m', `           $[INFO]: PREFIX ${mainprefix}`);  
-  console.log('\x1b[32m%s\x1b[0m', `           $[EXTRA]: CUSTOM MADE ANIT-RAID`);  
+  console.log('\x1b[32m%s\x1b[0m', `           $[EXTRA]: Discord ANIT-RAID`);  
 
-   console.log('\x1b[31m%s\x1b[0m', `            $[CREDITS]: Made By DarkBoy/DarkMisehl YT`);  
-  console.log('\x1b[31m%s\x1b[0m', `            $[SUPPORT]: Dark Codes: https://discord.gg/6gzkUNq `);  
+   console.log('\x1b[31m%s\x1b[0m', `            $[CREDITS]: Made By DarkBoy/Offender`);  
+  console.log('\x1b[31m%s\x1b[0m', `            $[SUPPORT]: Dark Codes: https://discord.gg/vcTwsbREQB `);  
 
  });
 
