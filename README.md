@@ -16,6 +16,7 @@
 - DarkDev
 
 ## join the Discord Server
+**[SUPPORT SERVER](https://discord.gg/vcTwsbREQB)**||
 <a href="https://discord.gg/vcTwsbREQB"><img src="http://invidget.switchblade.xyz/SEXHburyDZ"/></a>
 
 <br><br>
