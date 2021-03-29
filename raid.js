@@ -13,7 +13,7 @@ client.login(token)
 
   
 client.on('ready', () => {
-    client.user.setActivity('Anit Raid System', { type: 'PLAYING' });
+    client.user.setActivity('Anit Nuke System', { type: 'PLAYING' });
     console.clear();
  
   console.log('\n\x1b[32m%s\x1b[0m', `          $[INFO]: Logged on ${client.user.tag}`);  
